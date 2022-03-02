@@ -1,1 +1,10 @@
+Enter  the numerator 1:
+1
+Enter the denominator 1:
+2
+Enter  the numerator 2:
+1
+Enter  the denominator 2:
+4
+ 1/4 + 1/4 = 3/4 
 
