@@ -1,1 +1,9 @@
-
+Enter  the first fraction:
+3 7
+Enter  the first fraction:
+2 7
+Enter  the first fraction:
+4 7
+The largest of three fractions : 3/7 2/7 4/7 is 
+ 2/7
+ 
