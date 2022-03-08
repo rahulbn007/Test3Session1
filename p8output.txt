@@ -1,1 +1,11 @@
-
+./a.out
+Enter the number of fractions:
+3
+Enter the fraction:
+2 7
+Enter the fraction:
+3 5
+Enter the fraction:
+5 4
+The sum of 3 fractions:
+2/7 + 3/5 + 5/4 is 299/140
