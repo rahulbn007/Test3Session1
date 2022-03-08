@@ -1,1 +1,3 @@
-
+Enter the string:
+hello world
+The number of words is 2
