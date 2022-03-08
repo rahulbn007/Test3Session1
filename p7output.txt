@@ -1,1 +1,18 @@
-
+./a.out
+Enter the fraction:
+2 5
+Enter the fraction:
+3 8
+The sum of two fractions:
+2/5
+3/8
+is 31/40
+ ./a.out
+Enter the fraction:
+3 4
+Enter the fraction:
+7 8
+The sum of two fractions:
+3/4
+7/8
+is 13/8
