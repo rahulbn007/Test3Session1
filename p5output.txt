@@ -1,1 +1,20 @@
-
+gcc -g p5original.c
+ ./a.out
+Enter the array size:
+4
+Enter 4 numbers:
+5
+4
+3
+2
+The index of the largest element 5 in array is 0
+ ./a.out
+Enter the array size:
+5
+Enter 5 numbers:
+25
+63
+75
+12
+54
+The index of the largest element 75 in array is 2
